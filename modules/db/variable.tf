@@ -1,0 +1,12 @@
+variable "vpc_id" {}
+variable "vpc_public_a_id" {}
+variable "vpc_public_c_id" {}
+variable "vpc_private_a_id" {}
+variable "vpc_private_c_id" {}
+variable "rds_sg_name" {}
+variable "rds_group_name" {}
+variable "elb_sg_id" {}
+variable "db_username" {}
+variable "db_password" {}
+variable "redis_sg_name" {}
+variable "redis_group_name" {}

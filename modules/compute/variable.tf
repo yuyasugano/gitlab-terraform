@@ -1,0 +1,9 @@
+variable "vpc_id" {}
+variable "vpc_public_a_id" {}
+variable "vpc_public_c_id" {}
+variable "vpc_private_a_id" {}
+variable "vpc_private_c_id" {}
+variable "elb_name" {}
+variable "elb-sg_name" {}
+variable "ec2_sg_name" {}
+variable "certificate_arn" {}

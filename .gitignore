@@ -1,0 +1,13 @@
+.python-version
+.my.cnf
+*.pyc
+*.tsv
+*.swp
+*.csv
+*.msg
+*.egg-info
+*~
+/.idea
+environments/.terraform
+environments/terraform.tfvars
+
