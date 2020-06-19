@@ -1,4 +1,4 @@
-## Dev terraform code for gitlab solution
+## Gitlab solution with terraforming
 
 This example show how to set up AWS component vpc by using `Terraform`. 
 See a common configuration in the official site [Installing GitLab on Amazon Web Services (AWS)] [gitlab]
