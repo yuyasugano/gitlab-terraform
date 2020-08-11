@@ -37,6 +37,6 @@ terraform destroy -var-file=terraform.tfvars
 
 ## License
 
-This library is licensed under the Apache 2.0 License.
+This code is licensed under the MIT License.
 
 [gitlab]: https://docs.gitlab.com/ee/install/aws/ 
